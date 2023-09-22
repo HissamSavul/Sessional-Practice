@@ -1,1 +1,1 @@
-# Sessional-Practice is best
+# Sessional-Practice is best for conflict branch
